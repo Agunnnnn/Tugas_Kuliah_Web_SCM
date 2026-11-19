@@ -31,9 +31,3 @@ npm run dev
 ```
 Client berjalan di `http://localhost:5173`.
 
-## Akun Demo Login
-| Peran | Username | Password | Lokasi |
-| :--- | :--- | :--- | :--- |
-| Manajer Pusat (`super_admin`) | `admin` | `admin123` | Gudang Pusat Tangerang |
-| Kepala Gudang (`warehouse_staff`) | `gudang` | `gudang123` | Gudang Pusat Tangerang |
-| Kepala Cabang (`branch_manager`) | `pamulang` | `pamulang123` | Cabang Pamulang |
